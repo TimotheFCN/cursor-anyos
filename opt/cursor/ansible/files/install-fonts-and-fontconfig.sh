@@ -1,0 +1,1 @@
+../../../packages/agent-controller/assets/vnc/install-fonts-and-fontconfig.sh

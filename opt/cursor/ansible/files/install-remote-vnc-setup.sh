@@ -1,0 +1,1 @@
+../../../packages/agent-controller/assets/vnc/install-remote-vnc-setup.sh

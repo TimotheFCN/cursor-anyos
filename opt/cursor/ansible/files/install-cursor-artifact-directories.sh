@@ -1,0 +1,1 @@
+../../../packages/agent-controller/assets/vnc/install-cursor-artifact-directories.sh

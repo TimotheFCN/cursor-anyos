@@ -1,0 +1,1 @@
+../../../packages/agent-controller/assets/vnc/desktop-init.sh

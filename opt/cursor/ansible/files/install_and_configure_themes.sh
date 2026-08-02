@@ -1,0 +1,1 @@
+../../../packages/agent-controller/assets/vnc/install_and_configure_themes.sh
